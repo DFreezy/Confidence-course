@@ -1,0 +1,18 @@
+*{
+  text-align: center;
+  background: linear-gradient(rgb(203, 241, 228), rgb(47, 170, 255));
+}
+
+.hero-image{
+    margin: auto 0;
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 50%;
+    opacity: 40%;
+}
+
+.challenges{
+    margin: 150px;
+    font-style: italic;
+    background-color: gray;
+}
