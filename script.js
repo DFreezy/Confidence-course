@@ -111,7 +111,7 @@ const activity6 = document.getElementById('activity6')
 const closeActivity6 = document.getElementById('close-activity6')
 
 seeMore6.addEventListener('click', () => {
-    activity5.showModal();
+    activity6.showModal();
 });
 
 closeActivity6.addEventListener('click', () => {
