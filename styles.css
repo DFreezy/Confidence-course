@@ -1,4 +1,8 @@
 *{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
   text-align: center;
   background: linear-gradient(rgb(203, 241, 228), rgb(47, 170, 255));
 }
@@ -12,7 +16,46 @@
 }
 
 .challenges{
+    display: block;
     margin: 150px;
     font-style: italic;
     background-color: gray;
+    background: linear-gradient(rgb(0, 204, 78), rgb(218, 254, 11), rgb(255, 23, 2));
+    border-radius: 40% 40% 0% 0%;
+    opacity: 70%;
+}
+
+#menu-modal{
+  background: linear-gradient(rgb(0, 204, 78), rgb(218, 254, 11), rgb(255, 23, 2));
+}
+
+.modal{
+  background-color:rgba(0, 0, 0, 0.884);
+  color: #ffffff;
+}
+
+.submit{
+  width: 70px;
+  height: 30px;
+  background-color: rgb(45, 0, 75);
+  color: rgba(227, 228, 235, 0.747);
+  box-shadow: indianred;
+}
+
+.submit:hover{
+  width: 75px;
+  height: 35px;
+  background-color: red;
+  color: rgba(227, 228, 235, 0.747);
+  box-shadow: gold;
+}
+
+hr{
+  height: 10px;
+  background-color:rgb(45, 0, 75);
+  border-radius: 50%;
+}
+
+.welcome{
+  border-radius: 50%;
 }
