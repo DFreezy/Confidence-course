@@ -7,6 +7,8 @@ const closeSettings = document.getElementById('close-settings');
 const names = document.getElementById('reason');
 const introduction = document.getElementById('intro');
 
+
+
 // Event listener to open the settings modal
 setting.addEventListener('click', () => {
     settingsModal.showModal();

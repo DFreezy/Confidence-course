@@ -35,19 +35,21 @@ body{
 }
 
 .submit{
-  width: 70px;
-  height: 30px;
+  width: 200px;
+  height: 80px;
   background-color: rgb(45, 0, 75);
   color: rgba(227, 228, 235, 0.747);
   box-shadow: indianred;
+  border-radius: 50px;
 }
 
 .submit:hover{
-  width: 75px;
-  height: 35px;
+  width: 205px;
+  height: 85px;
   background-color: red;
   color: rgba(227, 228, 235, 0.747);
   box-shadow: gold;
+  border-radius: 50px;
 }
 
 hr{
@@ -58,4 +60,22 @@ hr{
 
 .welcome{
   border-radius: 50%;
+}
+
+#setting{
+  width: 80px;
+  height: 80px;
+  background-color: rgb(2, 2, 2);
+  color: rgba(227, 228, 235, 0.747);
+  box-shadow: indianred;
+  border-radius: 100%;
+}
+
+#setting:hover{
+  width: 85px;
+  height: 85px;
+  background-color: red;
+  color: rgba(227, 228, 235, 0.747);
+  box-shadow: gold;
+  border-radius: 100%;
 }
