@@ -65,6 +65,7 @@ hr{
 #setting{
   width: 80px;
   height: 80px;
+  font-size: 20px;
   background-color: rgb(2, 2, 2);
   color: rgba(227, 228, 235, 0.747);
   box-shadow: indianred;

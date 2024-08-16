@@ -285,3 +285,147 @@ seeMore19.addEventListener('click', () => {
 closeActivity19.addEventListener('click', () => {
     activity19.close();
 });
+
+////////////////////////////////////////////////Day 20///////////////////////////////////////////////////////////////////////////////////////
+const seeMore20 = document.getElementById('see-more20')
+const activity20 = document.getElementById('activity20')
+const closeActivity20 = document.getElementById('close-activity20')
+
+seeMore20.addEventListener('click', () => {
+    activity20.showModal();
+});
+
+closeActivity20.addEventListener('click', () => {
+    activity20.close();
+});
+
+////////////////////////////////////////////////Day 21///////////////////////////////////////////////////////////////////////////////////////
+const seeMore21 = document.getElementById('see-more21')
+const activity21 = document.getElementById('activity21')
+const closeActivity21 = document.getElementById('close-activity21')
+
+seeMore21.addEventListener('click', () => {
+    activity21.showModal();
+});
+
+closeActivity21.addEventListener('click', () => {
+    activity21.close();
+});
+
+////////////////////////////////////////////////Day 22///////////////////////////////////////////////////////////////////////////////////////
+const seeMore22 = document.getElementById('see-more22')
+const activity22 = document.getElementById('activity22')
+const closeActivity22 = document.getElementById('close-activity22')
+
+seeMore22.addEventListener('click', () => {
+    activity22.showModal();
+});
+
+closeActivity22.addEventListener('click', () => {
+    activity22.close();
+});
+
+////////////////////////////////////////////////Day 23///////////////////////////////////////////////////////////////////////////////////////
+const seeMore23 = document.getElementById('see-more23')
+const activity23 = document.getElementById('activity23')
+const closeActivity23 = document.getElementById('close-activity23')
+
+seeMore23.addEventListener('click', () => {
+    activity23.showModal();
+});
+
+closeActivity23.addEventListener('click', () => {
+    activity23.close();
+});
+
+////////////////////////////////////////////////Day 24///////////////////////////////////////////////////////////////////////////////////////
+const seeMore24 = document.getElementById('see-more24')
+const activity24 = document.getElementById('activity24')
+const closeActivity24 = document.getElementById('close-activity24')
+
+seeMore24.addEventListener('click', () => {
+    activity24.showModal();
+});
+
+closeActivity24.addEventListener('click', () => {
+    activity24.close();
+});
+
+////////////////////////////////////////////////Day 25///////////////////////////////////////////////////////////////////////////////////////
+const seeMore25 = document.getElementById('see-more25')
+const activity25 = document.getElementById('activity25')
+const closeActivity25 = document.getElementById('close-activity25')
+
+seeMore25.addEventListener('click', () => {
+    activity25.showModal();
+});
+
+closeActivity25.addEventListener('click', () => {
+    activity25.close();
+});
+
+////////////////////////////////////////////////Day 26///////////////////////////////////////////////////////////////////////////////////////
+const seeMore26 = document.getElementById('see-more26')
+const activity26 = document.getElementById('activity26')
+const closeActivity26 = document.getElementById('close-activity26')
+
+seeMore26.addEventListener('click', () => {
+    activity26.showModal();
+});
+
+closeActivity26.addEventListener('click', () => {
+    activity26.close();
+});
+
+////////////////////////////////////////////////Day 27///////////////////////////////////////////////////////////////////////////////////////
+const seeMore27 = document.getElementById('see-more27')
+const activity27 = document.getElementById('activity27')
+const closeActivity27 = document.getElementById('close-activity27')
+
+seeMore27.addEventListener('click', () => {
+    activity27.showModal();
+});
+
+closeActivity27.addEventListener('click', () => {
+    activity27.close();
+});
+
+////////////////////////////////////////////////Day 28///////////////////////////////////////////////////////////////////////////////////////
+const seeMore28 = document.getElementById('see-more28')
+const activity28 = document.getElementById('activity28')
+const closeActivity28 = document.getElementById('close-activity28')
+
+seeMore28.addEventListener('click', () => {
+    activity28.showModal();
+});
+
+closeActivity28.addEventListener('click', () => {
+    activity28.close();
+});
+
+////////////////////////////////////////////////Day 29///////////////////////////////////////////////////////////////////////////////////////
+const seeMore29 = document.getElementById('see-more29')
+const activity29 = document.getElementById('activity29')
+const closeActivity29 = document.getElementById('close-activity29')
+
+seeMore29.addEventListener('click', () => {
+    activity29.showModal();
+});
+
+closeActivity29.addEventListener('click', () => {
+    activity29.close();
+});
+
+////////////////////////////////////////////////Day 30///////////////////////////////////////////////////////////////////////////////////////
+const seeMore30 = document.getElementById('see-more30')
+const activity30 = document.getElementById('activity30')
+const closeActivity30 = document.getElementById('close-activity30')
+
+seeMore30.addEventListener('click', () => {
+    activity30.showModal();
+});
+
+closeActivity30.addEventListener('click', () => {
+    activity30.close();
+});
+
